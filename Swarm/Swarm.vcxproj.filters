@@ -34,7 +34,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ResourceCompile Include="CppTest.rc">
+    <ResourceCompile Include="Swarm.rc">
       <Filter>Resource Files</Filter>
     </ResourceCompile>
   </ItemGroup>
@@ -42,7 +42,7 @@
     <Image Include="small.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="CppTest.ico">
+    <Image Include="Swarm.ico">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
